@@ -1,0 +1,6 @@
+- Na imagem 02 temos 18 alunos que preferem cada disciplina
+- Cada fileira com 04 alunos que preferem uma disciplina e 02 que preferem a outra, intercalando o número maior a cada fileira
+tanto verticalmente quanto horizontalmente
+- Baseado nisso ele conseguiu identificar a posição onde houve a mudança pois tanto na fileira horizontal quanto vertical passaram a ter quantidade 
+igual de alunos com as preferências em português e matemática. 
+- Além disso basta verificarmos que agora tem 19 alunos que preferem português e 17 que preferem matemática. 
