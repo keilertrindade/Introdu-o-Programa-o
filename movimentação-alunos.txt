@@ -1,3 +1,22 @@
+nome:caractere
+cpf:inteiro
+rg:inteiro
+altura:real
+endereco:caractere
+
+
+nome <- José Almeida da Silva
+cpf <- 12345678900
+rg <- 9517530
+altura <- 1,78
+endereco <- Rua A, 380 – Centro – Recife/PE
+
+
+
+----------------------------------------------------------
+
+
+
 - Na imagem 02 temos 18 alunos que preferem cada disciplina
 - Cada fileira com 04 alunos que preferem uma disciplina e 02 que preferem a outra, intercalando o número maior a cada fileira
 tanto verticalmente quanto horizontalmente
