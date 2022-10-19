@@ -18,3 +18,9 @@ escreva("Informe seu cpf: ");
 leia(cpf)
 escreva("Informe seu rg: ");
 leia(rg)
+escreva("Nome: ", nome)
+escreva("Endereco: ", endereco)
+escreva("Cidade: ", cidade)
+escreva("CPF: ", cpf)
+escreva("RG: ", rg)
+Fimalgoritmo
